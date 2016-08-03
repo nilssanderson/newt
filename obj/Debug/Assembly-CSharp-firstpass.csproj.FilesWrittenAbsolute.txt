@@ -1,0 +1,17 @@
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/UnityEngine.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/UnityEditor.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Mono.Cecil.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Unity.DataContract.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Mono.Cecil.Mdb.dll
