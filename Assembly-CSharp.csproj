@@ -48,7 +48,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\WeaponManager.cs" />
+     <Compile Include="Assets\WeaponGraphics.cs" />
      <Compile Include="Assets\_Scripts\GameManager.cs" />
      <Compile Include="Assets\_Scripts\MatchSettings.cs" />
      <Compile Include="Assets\_Scripts\Player.cs" />
@@ -57,6 +57,8 @@
      <Compile Include="Assets\_Scripts\PlayerSetup.cs" />
      <Compile Include="Assets\_Scripts\PlayerShoot.cs" />
      <Compile Include="Assets\_Scripts\PlayerWeapon.cs" />
+     <Compile Include="Assets\_Scripts\Util.cs" />
+     <Compile Include="Assets\_Scripts\WeaponManager.cs" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
