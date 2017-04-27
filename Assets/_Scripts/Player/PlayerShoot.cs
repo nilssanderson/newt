@@ -5,6 +5,7 @@ using UnityEngine.Networking;
 public class PlayerShoot : NetworkBehaviour {
 
 	private const string PLAYER_TAG = "Player";
+	private const string ENVIRONMENT_TAG = "CollidableEnvironment";
 
 	[SerializeField]
 	private Camera cam;
@@ -85,6 +86,10 @@ public class PlayerShoot : NetworkBehaviour {
 
 			if (_hit.collider.tag == PLAYER_TAG) {
 				CmdPlayerShot (_hit.collider.name, currentWeapon.damage);
+			}
+
+			if (_hit.collider.tag == ENVIRONMENT_TAG) {
+				Destroy(_hit.transform.gameObject);
 			}
 
 			// We hit something, call the OnHit method on the server

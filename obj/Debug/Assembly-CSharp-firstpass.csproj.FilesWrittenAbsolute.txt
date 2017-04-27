@@ -15,3 +15,4 @@
 /Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/nilssanderson/Code/BourbonStandard/Unity/MMFPS/Temp/bin/Debug/LitJson.dll
